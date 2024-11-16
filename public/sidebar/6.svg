@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="loan_1" data-name="loan 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="loan_1-2" data-name="loan 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="loan_1-3" data-name="loan 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    <g id="Group" transform="translate(0.373 0)" style="mix-blend-mode: normal;isolation: isolate">
+      <path id="Vector" d="M15.216,7.669A7.647,7.647,0,0,0,7.608,0a7.669,7.669,0,0,0,0,15.337A7.647,7.647,0,0,0,15.216,7.669ZM6.176,9.85a1.831,1.831,0,0,0,1.329.348,1.085,1.085,0,0,0,1.077-.915.82.82,0,0,0-.6-.961,7.534,7.534,0,0,1-2.068-1,1.932,1.932,0,0,1-.643-1.9A2.159,2.159,0,0,1,6.758,3.732l.02-.006V3.449a.732.732,0,0,1,1.464,0V3.68a2.753,2.753,0,0,1,.985.451A.732.732,0,1,1,8.351,5.3a1.294,1.294,0,0,0-1.171-.17.711.711,0,0,0-.466.561.508.508,0,0,0,.108.479,6.529,6.529,0,0,0,1.653.767,2.283,2.283,0,0,1,1.551,2.584A2.594,2.594,0,0,1,9.227,11a2.479,2.479,0,0,1-.985.558v.332a.732.732,0,1,1-1.464,0v-.259a3.075,3.075,0,0,1-1.4-.554.732.732,0,0,1,.8-1.225Z" transform="translate(6.511)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-2" data-name="Vector" d="M.732,0A.732.732,0,0,0,0,.732V6.47A.732.732,0,0,0,.732,7.2H2.4V0H.732Z" transform="translate(0 17.797)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M15.2,2.321,13,4.514l-.9.9a1.937,1.937,0,0,1-1.369.567H6.366a.747.747,0,0,1-.753-.7.733.733,0,0,1,.732-.768h4.442A1.844,1.844,0,0,0,12.609,3a3.62,3.62,0,0,0,.054-.622.733.733,0,0,0-.733-.734H9.5A5.753,5.753,0,0,1,7.127.9,7.573,7.573,0,0,0,4.376.017,7.75,7.75,0,0,0,1.7.308,2.37,2.37,0,0,0,.009,2.375H0v7.2l12.611,0a3.225,3.225,0,0,0,2.3-.951l5.267-5.267a.733.733,0,0,0,0-1.037A3.523,3.523,0,0,0,15.2,2.321Z" transform="translate(3.865 15.424)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

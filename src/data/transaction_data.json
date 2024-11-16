@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "icon": "/transactions/1.svg",
+      "title": "Deposit from my Card",
+      "date": "28 January 2021",
+      "amount": "-$850",
+      "text_color": "red"
+    },
+    {
+      "id": 2,
+      "icon": "/transactions/2.svg",
+      "title": "Deposit Paypal",
+      "date": "25 January 2021",
+      "amount": "+$2,500",
+      "text_color": "green"
+    },
+    {
+      "id": 3,
+      "icon": "/transactions/3.svg",
+      "title": "Jemi Wilson",
+      "date": "21 January 2021",
+      "amount": "+$5,400",
+      "text_color": "green"
+    }
+  ]
+  

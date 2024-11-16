@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="transfer_1" data-name="transfer 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="transfer_1-2" data-name="transfer 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="transfer_1-3" data-name="transfer 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    <g id="_17-transfer" data-name="17-transfer" transform="translate(0 0)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Glyph" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector" d="M.611,2.384a2.086,2.086,0,0,0,1.472.611H12.5A2.086,2.086,0,0,0,14.583.911V0H0V.911A2.086,2.086,0,0,0,.611,2.384Z" transform="translate(5.208 22.005)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+        <path id="Vector-2" data-name="Vector" d="M13.972.611A2.086,2.086,0,0,0,12.5,0H2.083A2.086,2.086,0,0,0,0,2.083V3.125H14.583V2.083A2.085,2.085,0,0,0,13.972.611Z" transform="translate(5.208)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+        <path id="Vector-3" data-name="Vector" d="M1.793,0,.29,1.443,1.6,2.8H0V4.888H1.71L.321,6.219l1.441,1.5L4.887,4.729a1.042,1.042,0,0,0,.031-1.473Z" transform="translate(19.792 3.445)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+        <path id="Vector-4" data-name="Vector" d="M14.583,2.083V0H0V12.5H3.125v2.083H0v2.083H14.583V4.167H11.458V2.083ZM6.771,6.25a.521.521,0,0,0,0,1.042H7.813a2.6,2.6,0,0,1,.521,5.156v1.094H6.25V12.5H4.167V10.417H7.813a.521.521,0,0,0,0-1.042H6.771A2.6,2.6,0,0,1,6.25,4.219V3.125H8.333V4.167h2.083V6.25Z" transform="translate(5.208 4.167)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+        <path id="Vector-5" data-name="Vector" d="M4.887,1.5,3.446,0,.321,2.995A1.042,1.042,0,0,0,.29,4.468L3.415,7.723l1.5-1.443L3.611,4.919h1.6V2.835H3.5Z" transform="translate(0 13.831)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>

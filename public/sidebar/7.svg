@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="service_1" data-name="service 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="service_1-2" data-name="service 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="service_1-3" data-name="service 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    <g id="Group" transform="translate(16.936 0)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group-2" data-name="Group" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector" d="M6.813.215A.733.733,0,0,0,5.993.065L.429,2.521A.733.733,0,0,0,.214,3.706L4.358,7.849a.733.733,0,0,0,1.185-.215L8,2.071a.733.733,0,0,0-.149-.821Z" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Group-3" data-name="Group" transform="translate(0 16.125)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group-4" data-name="Group" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector-2" data-name="Vector" d="M.643,4.089a2.2,2.2,0,0,0,0,3.107L1.678,8.232a2.2,2.2,0,0,0,3.107,0L8.875,4.143,4.731,0Zm2.6,1.557a.732.732,0,0,1,0-1.036L5.256,2.593A.732.732,0,1,1,6.292,3.628L4.275,5.646A.732.732,0,0,1,3.239,5.646Z" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Group-5" data-name="Group" transform="translate(5.339 12.59)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group-6" data-name="Group" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector-3" data-name="Vector" d="M2.5.428A1.465,1.465,0,0,0,.428,2.5L4.571,6.643A1.465,1.465,0,0,0,6.643,4.571Z" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Group-7" data-name="Group" transform="translate(8.875 5.778)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group-8" data-name="Group" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector-4" data-name="Vector" d="M8.276,0,2.589,5.687a1.465,1.465,0,0,0-2.072,0L0,6.2l4.143,4.143.518-.518a1.465,1.465,0,0,0,0-2.072l5.687-5.687Z" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Group-9" data-name="Group" transform="translate(14.054 13.017)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group-10" data-name="Group" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector-5" data-name="Vector" d="M5.4,3.329,2.072,0l-.8.8a2.924,2.924,0,0,1-.76,2.831L0,4.143,2.292,6.434a4.4,4.4,0,0,0,4.841,5.5.747.747,0,0,0,.426-1.268L6.552,9.659V7.588H8.625l1,1A.747.747,0,0,0,10.9,8.16a4.379,4.379,0,0,0-1.234-3.68A4.48,4.48,0,0,0,5.4,3.329Z" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Group-11" data-name="Group" transform="translate(0.001)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group-12" data-name="Group" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector-6" data-name="Vector" d="M7.492,1.273A4.342,4.342,0,0,0,4.4,0a4.464,4.464,0,0,0-.586.038.747.747,0,0,0-.429,1.269l1.012,1V4.394H2.313l-1-1.018A.747.747,0,0,0,.041,3.8a4.4,4.4,0,0,0,5.5,4.838l2.3,2.3.517-.517a2.924,2.924,0,0,1,2.831-.76l.795-.795L8.643,5.532A4.467,4.467,0,0,0,7.492,1.273Z" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>

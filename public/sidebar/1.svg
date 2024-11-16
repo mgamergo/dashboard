@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="home_2" data-name="home 2" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="home_2-2" data-name="home 2" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="home_2-3" data-name="home 2" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    <path id="Vector" d="M24.324,10.872,14.126.674a2.3,2.3,0,0,0-3.255,0L.679,10.867l-.01.01A2.3,2.3,0,0,0,2.2,14.8c.023,0,.047,0,.071,0h.406v7.5A2.7,2.7,0,0,0,5.371,25h3.99a.732.732,0,0,0,.732-.732V18.384a1.23,1.23,0,0,1,1.229-1.229h2.353A1.23,1.23,0,0,1,14.9,18.384v5.884a.732.732,0,0,0,.732.732h3.99a2.7,2.7,0,0,0,2.694-2.693V14.8H22.7a2.3,2.3,0,0,0,1.629-3.928Z" transform="translate(-0.001)" fill="#2d60ff" style="mix-blend-mode: normal;isolation: isolate"/>
+  </g>
+</svg>

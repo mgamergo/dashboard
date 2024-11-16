@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="credit-card_1" data-name="credit-card 1" width="26" height="26" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="credit-card_1-2" data-name="credit-card 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="credit-card_1-3" data-name="credit-card 1" width="26" height="26" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    <g id="Group" transform="translate(0 3.843)" style="mix-blend-mode: normal;isolation: isolate">
+      <path id="Vector" d="M22.961,2.965A2.969,2.969,0,0,0,20,0H2.965A2.969,2.969,0,0,0,0,2.965v.356H22.961Z" transform="translate(0)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-2" data-name="Vector" d="M14.973,0H0V4.136A2.969,2.969,0,0,0,2.965,7.1H14.191A7,7,0,0,1,14.973,0ZM8.921,3.306V1.783H11.48V3.306ZM7.4,1.783V3.306H3.415V1.783Z" transform="translate(0 8.654)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M20.544,1.036a6.981,6.981,0,0,1,2.417.428V0H0V2.287H16.555A6.928,6.928,0,0,1,20.544,1.036Z" transform="translate(0 4.844)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-4" data-name="Vector" d="M5.456,0a5.456,5.456,0,1,0,5.456,5.456A5.456,5.456,0,0,0,5.456,0Zm.735,8.99H4.668V8.375a4.511,4.511,0,0,1-1.205-.7l.9-1.23c.494.362.747.535,1.094.535a.423.423,0,0,0,.414-.243c.072-.182-.03-.349-.272-.448a4.938,4.938,0,0,1-1.592-.876A1.72,1.72,0,0,1,3.583,3.8,1.781,1.781,0,0,1,4.668,2.536V1.921H6.191v.59a4.435,4.435,0,0,1,.9.368L6.367,4.218a1.765,1.765,0,0,0-1.1-.281.271.271,0,0,0-.2.207.261.261,0,0,0,.072.251,8.206,8.206,0,0,0,1.033.483A1.856,1.856,0,0,1,7.286,7.3a1.9,1.9,0,0,1-1.1,1.071Zm-.762,0h0" transform="translate(15.089 7.404)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

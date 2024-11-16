@@ -1,0 +1,25 @@
+[
+    {
+      "balance": "$5,756",
+      "cardHolder": "Eddy Cusuma",
+      "validThru": "12/22",
+      "cardNumber": "3778 **** **** 1234",
+      "bgColor": "bg-gradient-to-r from-blue-500 to-blue-700",
+      "from": "from-blue-500",
+      "to": "to-blue-700",
+      "text": "white",
+      "chip": "/cards/chip_white.svg"
+    },
+    {
+      "balance": "$5,756",
+      "cardHolder": "Eddy Cusuma",
+      "validThru": "12/22",
+      "cardNumber": "3778 **** **** 1234",
+      "bgColor": "bg-gray-100",
+      "from": "from-gray-200",
+      "to": "to-gray-400",
+      "text": "black",
+      "chip": "/cards/chip_dark.svg"
+    }
+  ]
+  

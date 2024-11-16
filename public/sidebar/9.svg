@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="settings_solid_1" data-name="settings solid 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="settings_solid_1-2" data-name="settings solid 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="settings_solid_1-3" data-name="settings solid 1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    <path id="Vector" d="M22.168,9.414a10.094,10.094,0,0,0-.651-1.567l.376-.376a2.3,2.3,0,0,0,0-3.255L20.785,3.107a2.3,2.3,0,0,0-3.255,0l-.376.376a10.1,10.1,0,0,0-1.567-.651V2.3a2.3,2.3,0,0,0-2.3-2.3H11.715a2.3,2.3,0,0,0-2.3,2.3v.531a10.093,10.093,0,0,0-1.567.651l-.376-.376a2.3,2.3,0,0,0-3.255,0L3.107,4.216a2.3,2.3,0,0,0,0,3.255l.376.376a10.094,10.094,0,0,0-.651,1.567H2.3a2.3,2.3,0,0,0-2.3,2.3v1.569a2.3,2.3,0,0,0,2.3,2.3h.531a10.1,10.1,0,0,0,.651,1.567l-.376.376a2.3,2.3,0,0,0,0,3.255l1.109,1.109a2.3,2.3,0,0,0,3.255,0l.376-.376a10.1,10.1,0,0,0,1.567.651V22.7a2.3,2.3,0,0,0,2.3,2.3h1.569a2.3,2.3,0,0,0,2.3-2.3v-.531a10.093,10.093,0,0,0,1.567-.651l.376.376a2.3,2.3,0,0,0,3.255,0l1.109-1.109a2.3,2.3,0,0,0,0-3.255l-.376-.376a10.094,10.094,0,0,0,.651-1.567H22.7a2.3,2.3,0,0,0,2.3-2.3V11.715a2.3,2.3,0,0,0-2.3-2.3ZM7.061,12.5A5.439,5.439,0,1,1,12.5,17.94,5.446,5.446,0,0,1,7.061,12.5Z" transform="translate(0 0)" fill="#b1b1b1" style="mix-blend-mode: normal;isolation: isolate"/>
+  </g>
+</svg>

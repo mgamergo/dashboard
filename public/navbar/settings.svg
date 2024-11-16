@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_002-notification-1" data-name="002-notification-1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3" style="mix-blend-mode: normal;isolation: isolate">
+    <path id="Ellipse_2" data-name="Ellipse 2" d="M0,25A25,25,0,1,1,25,50,25,25,0,0,1,0,25Z" fill="#f5f7fa" style="mix-blend-mode: normal;isolation: isolate"/>
+    <g id="_002-notification-1-2" data-name="002-notification-1" transform="translate(13 12)" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+      <rect id="_002-notification-1-3" data-name="002-notification-1" width="25" height="25" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector" d="M0,.781a.781.781,0,0,1,1.563,0,2.344,2.344,0,0,0,4.688,0,.781.781,0,0,1,1.563,0A3.906,3.906,0,0,1,0,.781Z" transform="translate(7.536 20.313)" fill="#fe5c73" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-2" data-name="Vector" d="M1.823,18.75A1.823,1.823,0,0,1,.637,15.542a.732.732,0,0,1,.083-.062,7,7,0,0,0,2.4-5.281V7.292A7.3,7.3,0,0,1,10.417,0a3.139,3.139,0,0,1,.514.031.781.781,0,1,1-.256,1.541,1.638,1.638,0,0,0-.257-.009A5.736,5.736,0,0,0,4.688,7.292V10.2A8.567,8.567,0,0,1,1.664,16.73c-.016.013-.029.024-.046.035a.258.258,0,0,0-.055.161.263.263,0,0,0,.26.26H19.01a.263.263,0,0,0,.26-.26.249.249,0,0,0-.056-.161l-.045-.035A8.565,8.565,0,0,1,16.146,10.2V9.063a.781.781,0,1,1,1.563,0V10.2a7,7,0,0,0,2.407,5.285.771.771,0,0,1,.08.061A1.822,1.822,0,0,1,19.01,18.75Z" transform="translate(1.025 3.125)" fill="#fe5c73" style="mix-blend-mode: normal;isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M0,5.208a5.208,5.208,0,1,1,5.208,5.208A5.214,5.214,0,0,1,0,5.208Zm1.563,0A3.646,3.646,0,1,0,5.208,1.563,3.65,3.65,0,0,0,1.563,5.208Z" transform="translate(13.525)" fill="#fe5c73" style="mix-blend-mode: normal;isolation: isolate"/>
+    </g>
+  </g>
+</svg>
