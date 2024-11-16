@@ -10,6 +10,7 @@ import TransactionsList from "./components/TransactionList"
 import LineChart from "./components/LineChart"
 import BarChart from "./components/BarChart"
 import PieChart from "./components/PieChart"
+import QuickTransfer from "./components/QuickTransfer"
 
 function App() {
 
@@ -25,7 +26,8 @@ function App() {
       {/* <TransactionChart /> */}
       {/* <LineChart /> */}
       {/* <BarChart /> */}
-      <PieChart />
+      {/* <PieChart /> */}
+      {/* <QuickTransfer /> */}
     </div>
   )
 }
