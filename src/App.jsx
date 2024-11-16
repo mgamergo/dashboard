@@ -1,24 +1,18 @@
-import Login from "./pages/Login"
-import Sidebar from "./components/Sidebar"
-import Signup from "./pages/Signup"
-import Navbar from "./components/Navbar"
-import CardInfo from "./components/CardInfo"
-import data from './data/card_data.json'
-import transactions from './data/transaction_data.json'
-import TransactionsList from "./components/TransactionList"
-// import TransactionChart from "./components/TransactionChart"
-import LineChart from "./components/LineChart"
-import BarChart from "./components/BarChart"
-import PieChart from "./components/PieChart"
-import QuickTransfer from "./components/QuickTransfer"
 import Dashboard from "./pages/Dashboard"
+import Login from "./pages/Login"
+import Signup from "./pages/Signup"
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
 
   return (
-    <div className="h-full">
-      <Dashboard />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+      </Routes>
+    </Router>
   )
 }
 
