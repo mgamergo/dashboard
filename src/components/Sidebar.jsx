@@ -2,7 +2,7 @@ import React from "react";
 
 const Sidebar = () => {
   return (
-    <div className="w-2/12 border h-full">
+    <div className="w-2/12 h-full sticky left-0 top-0">
 
       {/* LOGO SECTION */}
       <div className="w-full flex justify-center items-center gap-3 py-8">

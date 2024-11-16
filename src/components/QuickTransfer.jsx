@@ -8,7 +8,7 @@ const QuickTransfer = () => {
   ];
 
   return (
-    <div className="bg-gray-100 p-6 rounded-2xl max-w-md mx-auto shadow-lg">
+    <div className="bg-[#f7faff] p-6 rounded-2xl max-w-md mx-auto">
       {/* User List */}
       <div className="flex justify-between items-center mb-6">
         {users.map((user, index) => (
@@ -30,11 +30,11 @@ const QuickTransfer = () => {
       {/* Amount and Send Button */}
       <div className="flex items-center justify-between px-4 py-2 rounded-xl">
         <p className="text-sm text-gray-500">Write Amount</p>
-        <div className=" flex items-center justify-between bg-gray-300 w-60 rounded-full">
+        <div className=" flex items-center justify-between bg-gray-300 w-40 ml-16 rounded-full">
             <input
               type="text"
               placeholder="525.50"
-              className="bg-transparent border-none text-center text-sm font-semibold text-gray-400 focus:outline-none w-24"
+              className="bg-transparent border-none text-center text-sm font-semibold text-gray-400 focus:outline-none w-16"
             />
             <button className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-full shadow hover:bg-blue-700">
               Send

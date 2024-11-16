@@ -78,7 +78,7 @@ const LineChart = () => {
         position: "top",
       },
       title: {
-        display: true,
+        display: false,
         text: "Line Chart with Gradient Background",
       },
     },

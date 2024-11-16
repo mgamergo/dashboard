@@ -79,7 +79,7 @@ const BarChart = () => {
   };
 
   return (
-    <div style={{ padding: "20px", backgroundColor: "#f7faff", borderRadius: "10px" }}>
+    <div className="p-5 bg-[#f7faff] rounded-[10px] w-full mx-3">
       <Bar data={data} options={options} />
     </div>
   );

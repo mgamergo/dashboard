@@ -53,7 +53,7 @@ const PieChart = () => {
   };
 
   return (
-    <div style={{ width: "400px", margin: "0 auto", backgroundColor: "#F7FAFF", padding: "20px", borderRadius: "10px" }}>
+    <div className="w-[300px] mx-auto bg-[#F7FAFF] p-5 rounded-[10px] h-[350px]">
       <Pie data={data} options={options} />
     </div>
   );

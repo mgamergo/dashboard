@@ -11,23 +11,13 @@ import LineChart from "./components/LineChart"
 import BarChart from "./components/BarChart"
 import PieChart from "./components/PieChart"
 import QuickTransfer from "./components/QuickTransfer"
+import Dashboard from "./pages/Dashboard"
 
 function App() {
 
   return (
     <div className="h-full">
-      {/* <Login /> */}
-      {/* <Signup /> */}
-      {/* <Sidebar /> */}
-      {/* <Navbar /> */}
-      {/* <CardInfo data={data[0]} />
-      <CardInfo data={data[1]} /> */}
-      {/* <TransactionsList transactions={transactions} /> */}
-      {/* <TransactionChart /> */}
-      {/* <LineChart /> */}
-      {/* <BarChart /> */}
-      {/* <PieChart /> */}
-      {/* <QuickTransfer /> */}
+      <Dashboard />
     </div>
   )
 }

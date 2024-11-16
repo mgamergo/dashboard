@@ -4,7 +4,7 @@
       "cardHolder": "Eddy Cusuma",
       "validThru": "12/22",
       "cardNumber": "3778 **** **** 1234",
-      "bgColor": "bg-gradient-to-r from-blue-500 to-blue-700",
+      "bgColor": "bg-blue-400",
       "from": "from-blue-500",
       "to": "to-blue-700",
       "text": "white",

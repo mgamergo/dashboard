@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="h-16 w-full border flex justify-between items-center px-8 ">
+    <div className="h-16 w-full flex justify-between items-center px-8 bg-gray-200 mb-3">
       <div>
         <h2 className="text-xl font-medium">OverView</h2>
       </div>

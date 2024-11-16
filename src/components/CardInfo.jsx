@@ -1,8 +1,8 @@
 import React from "react";
 
-const CardInfo = ({data}) => {
+const CardInfo = ({data, color}) => {
   return (
-    <div className={`w-80 h-48 bg-gradient-to-r ${data.from} ${data.to} rounded-lg p-4 text-${data.text} shadow-lg`}>
+    <div className={`w-80 h-48 bg-gradient-to-r ${color ? "from-blue-400 to-blue-500" : "from-gray-200 to-gray-300"} rounded-lg p-4 text-${data.text} shadow-lg`}>
       <div className="flex justify-between items-center">
         <div>
           <p className="text-sm">Balance</p>
